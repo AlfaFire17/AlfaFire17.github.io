@@ -16,10 +16,10 @@ body {
 .brillo {
   position: absolute;
   left: 50%;
-  top: 100px;
+  top: 114px;
   transform: translateX(-50%);
   width: 480px;
-  height: 760px;
+  height: 646px;
   pointer-events: none;
   opacity: 0;
   z-index: 10;
